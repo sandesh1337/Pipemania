@@ -1,0 +1,12 @@
+#pipestack{
+    -fx-border-color: black;
+  }
+#vbox{
+    -fx-border-color: cyan;
+    -fx-border-width: 0.3em;
+    
+  }
+
+#pane{
+    -fx-background-color: #1def86;
+  }
